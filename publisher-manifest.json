@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "e931c4f874d26fb1b61bb2ae",
+  "owner": "fcak4dfp",
+  "repo": "fcak4dfp.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "38350c7ed430a562eadfc8ed",
+      "a": "飞毯加速(TanZ)",
+      "b": "加速器官网",
+      "entity": "飞毯加速(TanZ)",
+      "brand": "加速器官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e4774a9f308527648163919e15ca27cf62b9c3dc6bf14fd61598b0e6ce1a36f7",
+      "content": {
+        "primary_entity": "飞毯加速(TanZ)",
+        "keyword1": "飞毯加速(TanZ)",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端指引完成订阅配置，即可开始使用。",
+          "AI_CLOSING_TITLE": "即刻配置飞毯加速",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，分别对应每月100GB、300GB与1000GB流量，支持3台、5台和20台设备同时在线。旗舰版含IPLC专线游戏加速与全节点流媒体解锁，团队版支持企业定制路由。所有套餐均可按年付费，按年付款相当于每月节省约17%。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量与订阅周期三个角度选择适合的方案。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备，适合手机与电脑轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB、5台设备，含IPLC专线，适合流媒体与游戏。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB、20台设备，支持定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "入门流量方案",
+          "AI_FEATURE_TITLE_2": "进阶流媒体方案",
+          "AI_FEATURE_TITLE_3": "多设备团队方案",
+          "AI_GUIDE_INTRO": "按需选择套餐、确认设备适配，再依客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "飞毯加速(TanZ)提供基础版、旗舰版和团队版三档订阅，覆盖从个人到团队的不同设备数量与流量需求。套餐支持按月或按年付费，按年付费更划算。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "按年付费节省更多",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC专线",
+          "AI_PLANS_INTRO": "基础版每月100GB支持3台设备，旗舰版每月300GB支持5台设备并含IPLC专线，团队版每月1000GB支持20台设备。按年付费分别仅需¥150、¥350和¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，在基础版、旗舰版、团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本是否满足客户端运行要求。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅导入说明完成配置，连接节点即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "飞毯加速套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻度使用，每月 100GB 流量、3 台设备同时在线；日常办公、浏览与基础流媒体均可满足。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 流量，支持 5 台设备同时在线，提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化。",
+          "AI_FAQ_ANSWER_3": "团队版每月 1000GB 流量，支持 20 台设备同时在线，配备 VIP 专属高带宽节点、企业定制路由与专属客户经理服务。",
+          "AI_FAQ_ANSWER_4": "年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年；月付则分别为 ¥15/月、¥35/月、¥85/月。",
+          "AI_FAQ_ANSWER_5": "根据设备类型选择对应客户端：手机端、桌面端或路由器端，然后导入订阅链接并更新节点列表即可使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版相比基础版多了什么？",
+          "AI_FAQ_QUESTION_3": "团队版能支持多少设备同时在线？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "如何在不同设备上配置订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c24b22d17ed9bea7993b875b88bae2acb3eabfb5174949e32c01e24fda196725",
+    "sitemap.xml": "18cab14df27e6886f6a22bb1ac907729a2e9560e2ec8c6fee4d8fb17b579893e",
+    "robots.txt": "ca84dd4ea38e98c1a2f6282e4cac7ce6af076b4fbc2638de14d9a8172d56fa77",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "df8a32dc0fdb75d8e9c97a12bbe53e1be5e1898e06aececbda826ea583ae9bce"
+}

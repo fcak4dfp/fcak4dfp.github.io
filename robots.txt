@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fcak4dfp.github.io/sitemap.xml
